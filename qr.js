@@ -70,7 +70,7 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "ICEBACK-NDEYEDU~" + string_session;
+                        let md = "ᴛɪᴍɴᴀsᴀ-ᴛᴇᴄʜ" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*Hello  1.0.0 User! 👋🏻*
                         
@@ -81,9 +81,9 @@ var randomItem = selectRandomItem(items);
 
 
 
-░▒▓█► CLASSIFIED INTEL INITIATED ◄█▓▒░
+       ༺☉︎INTEL INITIATED☉︎༻
 
-⚠️ **ABSOLUTE DISCRETION ADVISED:** Your Session Cipher is the keystone to this sanctuary. Guard it with the vigilance of a digital sentinel. Sharing it breaches the trust and the gateway. You are now among the select, welcomed by GLOBALTECHKINGS-MASTERY 🗝️🌌
+⚠️ **ABSOLUTE DISCRETION ADVISED:** Your Session Cipher is the keystone to this sanctuary. Guard it with the vigilance of a digital sentinel. Sharing it breaches the trust and the gateway. You are now among the select, welcomed by ᴛɪᴍɴᴀsᴀ-ᴛᴇᴄʜ🗝️🌌
 
 
 **🔓 ACCESS GRANTED TO ELITE RESOURCES 🔓**
@@ -118,9 +118,9 @@ I've added extra spaces throughout the message to improve readability and visual
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: " 𝖇𝖔𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
-thumbnailUrl: "https://files.catbox.moe/vlvlqz.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbAJA1THwXbA74a5pO1s",
+title: "ᴛɪᴍɴᴀsᴀ-ᴛᴇᴄʜ sᴇssɪᴏɴ ɪᴅ",
+thumbnailUrl: "https://files.catbox.moe/wawwgp.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -129,7 +129,7 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*Hello GOTAR 𝕸𝕯 1.0.0 User! 👋🏻* 
+                            let desc = `*Hello ᴛɪᴍɴᴀsᴀ-ᴛᴇᴄʜ 1.0.0 User! 👋🏻* 
                             
 > 🚨 *CONFIDENTIALITY ALERT!* 🚨
 
@@ -137,9 +137,9 @@ Keep your session ID under wraps! Don't share it with anyone.
 
 Thanks for choosing GOTAR-MD 1.0.0 🚩!
 
-*You're one step ahead!* Join our WhatsApp Channel ⤵️ (https://whatsapp.com/channel/0029VbAJA1THwXbA74a5pO1s) and get exclusive updates!*
+*You're one step ahead!* Join our WhatsApp Channel ⤵️ (https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31) and get exclusive updates!*
 
-*Ready to level up?* Fork our repo ⬇️ [https://github.com/GOTAR-MD/GOTAR_MD] and contribute to the community!*
+*Ready to level up?* Fork our repo ⬇️ [https://github.com/Next5x/TIMNASA_TMD1] and contribute to the community!*
 
 *We've got a secret for you...* 🤫 Join our channel to unlock exclusive content
 
@@ -149,13 +149,13 @@ Thanks for choosing GOTAR-MD 1.0.0 🚩!
 
 You're part of something awesome!"
 
-> *© GOTAR-MD X SUHAIL BRU*`; 
+> *© ᴛɪᴍɴᴀsᴀ-ᴛᴇᴄʜ sᴇssɪᴏɴ ɪᴅ*`; 
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: " 𝖒𝖉 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
-thumbnailUrl: "https://files.catbox.moe/3bwori.jpg",
+title: " ᴛɪᴍɴᴀsᴀ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅  ",
+thumbnailUrl: "https://files.catbox.moe/wawwgp.jpg",
 sourceUrl: "https://whatsapp.com/channel/",
 mediaType: 2,
 renderLargerThumbnail: true,
